@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ink-Libraries", "Ink-Libraries.csproj", "{350859b8-b027-82a9-fdfd-2dd54f56aaf8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1c1bd3a6-fcd2-f710-0d06-19002e7a70bc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkEditor", "InkEditor.csproj", "{b700e884-6d64-d112-b624-38faa07e5444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{ccfd83a7-4ef4-cb7e-82ba-3ebe28361234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350859b8-b027-82a9-fdfd-2dd54f56aaf8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350859b8-b027-82a9-fdfd-2dd54f56aaf8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1c1bd3a6-fcd2-f710-0d06-19002e7a70bc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1c1bd3a6-fcd2-f710-0d06-19002e7a70bc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b700e884-6d64-d112-b624-38faa07e5444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b700e884-6d64-d112-b624-38faa07e5444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ccfd83a7-4ef4-cb7e-82ba-3ebe28361234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ccfd83a7-4ef4-cb7e-82ba-3ebe28361234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
